@@ -3,7 +3,7 @@
 
 # NUGU Play
 - NUGU Mediger Play Action Tree
-![actionTree](./image/actionTree.jpg)
+![actionTree](./image/actionTree_fin.jpg)
 - NUGU Mediger Test mode in Youtube [link](https://youtu.be/kT_0jlII8BA)
 
 # Backend - app
